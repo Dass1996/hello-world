@@ -2,4 +2,4 @@
 <h2> Deploying on a tomcat server </h2>
 whenever they say anything bad about you it hurts
 
-today is friday!!
+today is monday. Deploying on docker container
